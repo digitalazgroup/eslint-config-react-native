@@ -1,0 +1,10 @@
+{
+  "name": "@digitalazgroup/eslint-config-react-native",
+  "description": "ESLint config for react-native",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "^0.61.4"
+  }
+}
