@@ -5,6 +5,7 @@ module.exports = {
   },
   extends: [
     'plugin:react-native/all',
+    'plugin:import/react-native'
   ],
   plugins: [
     'react-native',
